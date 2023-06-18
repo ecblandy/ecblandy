@@ -4,6 +4,8 @@
 
 ![Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=ecblandy&show_icons=true&theme=dracula)
 
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ecblandy)](https://github.com/ecblandy/github-readme-stats)
+
 ### Tecnologias front end que eu uso no meu dia 
 
 <div style="display: inline">
@@ -19,4 +21,4 @@
 
 Apaixonado por tecnologia, criatividade e por mudar a vida das pessoas através da programação.
 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ecblandy)](https://github.com/ecblandy/github-readme-stats)
+
