@@ -79,29 +79,26 @@ Atualmente faço parte da **CodeLab**, onde desenvolvo soluções completas — 
 
 ---
 
-### 📊 Estatísticas  
+### 📊 Estatísticas do GitHub  
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+<div align="center">
 
-  <a href="https://github.com/ecblandy">
-    <img 
-      height="170em" 
-      src="https://github-readme-stats.vercel.app/api?username=ecblandy&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9CA3AF&icon_color=58A6FF" 
-      alt="GitHub Stats"
-    />
-  </a>
+  <img
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api?username=ecblandy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+    alt="Estatísticas do GitHub de Vinícius Blandy"
+  />
 
-  <a href="https://github.com/ecblandy">
-    <img 
-      height="170em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecblandy&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9CA3AF" 
-      alt="Top Languages"
-    />
-  </a>
+  <img
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecblandy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    alt="Linguagens mais usadas"
+  />
 
 </div>
 
 ---
+
 
 ### ✨ Frase que me guia  
 > “Um bom código é aquele que não apenas funciona — mas é bonito de ler e fácil de evoluir.”
