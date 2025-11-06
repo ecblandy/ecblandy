@@ -81,10 +81,23 @@ Atualmente faço parte da **CodeLab**, onde desenvolvo soluções completas — 
 
 ### 📊 Estatísticas  
 
-<div align="center">
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 
-![Vinícius GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecblandy&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecblandy&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+  <a href="https://github.com/ecblandy">
+    <img 
+      height="170em" 
+      src="https://github-readme-stats.vercel.app/api?username=ecblandy&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9CA3AF&icon_color=58A6FF" 
+      alt="GitHub Stats"
+    />
+  </a>
+
+  <a href="https://github.com/ecblandy">
+    <img 
+      height="170em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecblandy&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9CA3AF" 
+      alt="Top Languages"
+    />
+  </a>
 
 </div>
 
