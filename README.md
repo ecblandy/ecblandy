@@ -83,21 +83,26 @@ Atualmente faço parte da **CodeLab**, onde desenvolvo soluções completas — 
 
 <div align="center">
 
-  <img
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=ecblandy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
-    alt="Estatísticas do GitHub de Vinícius Blandy"
-  />
+  <a href="https://github.com/ecblandy">
+    <img 
+      height="170em" 
+      src="https://github-readme-stats.vercel.app/api?username=ecblandy&show_icons=true&theme=transparent&hide_border=false&bg_color=1A1A1A&title_color=0070C0&text_color=A7C7E7&icon_color=003E7E&border_color=003E7E&border_radius=10&rank_icon=github" 
+      alt="Estatísticas do GitHub de Vinícius Blandy"
+    />
+  </a>
 
-  <img
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecblandy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-    alt="Linguagens mais usadas"
-  />
+  <a href="https://github.com/ecblandy">
+    <img 
+      height="170em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecblandy&layout=compact&theme=transparent&hide_border=false&bg_color=1A1A1A&title_color=0070C0&text_color=A7C7E7&border_color=003E7E&border_radius=10" 
+      alt="Linguagens mais usadas"
+    />
+  </a>
 
 </div>
 
 ---
+
 
 
 ### ✨ Frase que me guia  
